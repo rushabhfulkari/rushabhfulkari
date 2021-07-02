@@ -1,7 +1,7 @@
 ### Hi there, I'm Rushabh Fulkari
 ## I'm a Freelancer and a Developer!!
 - 👋 Hi, I’m [Rushabh Fulkari](https://www.instagram.com/rush_hub/)
-- ❄️ I’m currently learning Flutter
+- ❄️ I’m self taught Flutter Developer
 - 👨🏻‍💻 Self taught Programmer
 - ⚡ Fun fact: I rap and also I play guitar too
 
@@ -14,6 +14,9 @@
   </a>  
   <a href="https://twitter.com/fulkari_rushabh">
     <img align="left" alt="fulkari_rushabh | Twitter" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a>
+    <img align="left" alt="Rushabh" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
   </a>
 
 <br>
