@@ -1,12 +1,14 @@
 ### Hi there, I'm Rushabh Fulkari
-<a>
-    <img align="left" alt="Rushabh" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
-  </a>
 ## I'm a Freelancer and a Developer!!
 - 👋 Hi, I’m [Rushabh Fulkari](https://www.instagram.com/rush_hub/)
 - ❄️ I’m self taught Flutter Developer
 - 👨🏻‍💻 Self taught Programmer
 - ⚡ Fun fact: I rap and also I play guitar too
+
+## Coding is fun
+<a>
+    <img align="left" alt="Rushabh" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+  </a>
 
 ### Connect with me here:  
   <a href="https://www.linkedin.com/in/rushabh-fulkari-b5200b120/">
