@@ -9,6 +9,8 @@
 <a>
     <img align="left" alt="Rushabh" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
   </a>
+  
+  <br>
 
 ### Connect with me here:  
   <a href="https://www.linkedin.com/in/rushabh-fulkari-b5200b120/">
