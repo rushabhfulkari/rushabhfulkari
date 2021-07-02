@@ -5,13 +5,6 @@
 - 👨🏻‍💻 Self taught Programmer
 - ⚡ Fun fact: I rap and also I play guitar too
 
-### Connect with me:
-[<img align="left" alt="Rushabh Fulkari | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Rushabh Fulkari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rushabh Fulkari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rushabh Fulkari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-
 ### Connect with me here:  
   <a href="https://www.linkedin.com/in/rushabh-fulkari-b5200b120/">
     <img align="left" alt="Rushabh Fulkari | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -21,9 +14,6 @@
   </a>  
   <a href="https://twitter.com/fulkari_rushabh">
     <img align="left" alt="fulkari_rushabh | Twitter" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCU4tWXrS_TNB7wQFhf0xjCA">
-    <img align="left" alt="RUSH | Youtube" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Youtube.svg" />
   </a>
 
 <br>
@@ -48,4 +38,3 @@
 
 - 💬 Ask me about anything, I am happy to help anytime!
 - Open Source enthusiast
-- Working on a masterpiece!
