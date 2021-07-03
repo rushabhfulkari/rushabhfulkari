@@ -1,7 +1,7 @@
 ### Hi there, I'm Rushabh Fulkari
 ## I'm a Freelancer and a Developer!!
 - 👋 Hi, I’m [Rushabh Fulkari](https://www.instagram.com/rush_hub/)
-- ❄️ I’m self taught Flutter Developer
+- ❄️ I’m a Flutter Developer
 - 👨🏻‍💻 Self taught Programmer
 - ⚡ Fun fact: I rap and also I play guitar too
 
